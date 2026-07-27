@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ic_launcher.png" width="120" alt="Telos Logo"/>
+<img src="assets/logo.png" width="120" alt="Telos Logo"/>
 
 # Telos
 
